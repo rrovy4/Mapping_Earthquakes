@@ -6,6 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
+Simple_Map/static/js/config.js
+
 # Distribution / packaging
 .Python
 build/
