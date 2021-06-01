@@ -32,7 +32,7 @@ cityData.forEach(function(city) {
 //     color: "black",
 //     fillColor: '#ffffa1'
 // }).addTo(myMap);
-
+ 
 
 // We create the tile layer that will be the background of our map.
 var streets = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
